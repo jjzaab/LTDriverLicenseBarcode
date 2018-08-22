@@ -9,3 +9,5 @@ Leadtools OCR SDK:
 https://www.leadtools.com/sdk/barcode
 
 #Note: must have LEADTOOLS libraries to run
+
+![Screenshot](LicenseBarcode.png)
